@@ -1,0 +1,47 @@
+body {
+    background-image: url("../images/backgroundNoise.png");
+    background-repeat: repeat;
+}
+
+.specie {
+    width: 1050px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    height: 654px;
+}
+
+.SlidesFlandr {
+    display: none;
+}
+
+.SlidesRizen {
+    display: none;
+}
+
+.SlidesBelVel {
+    display: none;
+}
+
+.SlidesShinshila {
+    display: none;
+}
+
+.SlidesSerebr  {
+    display: none;
+}
+
+.SlidesKalif {
+    display: none;
+}
+
+.SlidesVensk {
+    display: none;
+}
+
+.slideshow {
+    height: 500px;
+    width: 590px;
+    position: relative;
+    top: 77px;
+}
